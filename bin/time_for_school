@@ -24,6 +24,6 @@ jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Ricks"
 
-jim.(some_knowledge)
+
 
 puts "Jim just learned this important knowledge: '#{ji.knowledge.first}' from Avi."
